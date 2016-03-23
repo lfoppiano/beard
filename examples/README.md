@@ -22,7 +22,7 @@ pip install numpy
 pip install scipy
 ```
 
-Finally, we can install the library
+Finally, we can install the library, after cloning the repository, we launch the setup.py  
 
 ```
 python setup.py install
