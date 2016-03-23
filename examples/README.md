@@ -1,24 +1,11 @@
-========
-Examples
-========
+# Examples
+
 General purpose and introductory examples of Beard.
 
-**Getting started**
+## Getting started
 
 This application works only on Python 2.x. On Linux should be already installed. 
 On Mac OSX you can install it using Homebrew: `brew install python2`
-
-To keep the installation separated from the general system, is better to use virtualenv:
-
-```
-pip install virtualenv 
-=======
-## Getting started 
-This application works only on Python 2.x. On Linux should be already installed.
-On Mac OSX you can install it using Homebrew:  
-```
-brew install python2
-```
 
 To keep the installation separated from the general system, is better to use virtualenv: 
 ```
@@ -41,4 +28,4 @@ Finally, we can install the library
 python setup.py install
 ```
 
-More detailed instruction on how run the examples are contained in the
+More detailed instruction on how run the examples are contained in [beard/examples/applications/author-disambiguation/README.rst]
