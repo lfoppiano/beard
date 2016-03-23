@@ -9,7 +9,7 @@
 
 """Author disambiguation -- Clustering.
 
-See README.rst for further details.
+See README.md for further details.
 
 .. codeauthor:: Gilles Louppe <g.louppe@cern.ch>
 .. codeauthor:: Mateusz Susik <mateusz.susik@cern.ch>

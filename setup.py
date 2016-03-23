@@ -114,7 +114,7 @@ _parameters = {
     "install_requires": _install_requires,
     "keywords": _keywords,
     "license": "BSD",
-    "long_description": open("README.rst").read(),
+    "long_description": open("README.md").read(),
     "name": "beard",
     "packages": packages,
     "platforms": "any",

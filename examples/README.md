@@ -41,4 +41,4 @@ Finally, we can install the library
 python setup.py install
 ```
 
-More detailed instruction on how run the examples are contained in the 
+More detailed instruction on how run the examples are contained in the
