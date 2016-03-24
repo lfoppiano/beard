@@ -28,4 +28,4 @@ Finally, we can install the library, after cloning the repository, we launch the
 python setup.py install
 ```
 
-More detailed instruction on how run the examples are contained in  [README.rst](beard/examples/applications/author-disambiguation/README.rst)
+More detailed instruction on how run the examples are contained in  [README.rst](applications/author-disambiguation/README.rst)
