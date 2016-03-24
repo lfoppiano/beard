@@ -7,10 +7,10 @@ Automatic Recognition and Disambiguation.
 
 The project is currently in early stage of development.
 
-.. image:: https://travis-ci.org/inspirehep/beard.svg?branch=master
-	:target: https://travis-ci.org/inspirehep/beard
-.. image:: https://coveralls.io/repos/inspirehep/beard/badge.png
-	:target: https://coveralls.io/r/inspirehep/beard
+[![Build Status](https://travis-ci.org/inspirehep/beard.svg?branch=master)](https://travis-ci.org/inspirehep/beard)
+[![Coverage Status](https://coveralls.io/repos/inspirehep/beard/badge.svg)](https://coveralls.io/r/inspirehep/beard)
+[![Documentation Status](https://readthedocs.org/projects/grobid/badge/?version=latest)](https://readthedocs.org/projects/grobid/?badge=latest)
+
 
 Installation
 ============
@@ -20,6 +20,6 @@ Installation
 Examples
 ========
 
-In the ``examples/applications/author-disambiguation`` directory there are files
+In the [example directory](examples/applications/author-disambiguation) there are files
 that present how to use the library for the author disambiguation problem.
-Check the [README.md](beard/examples/README.md) in this directory for details.
+Check the [README.md](examples/README.md) in this directory for details.
